@@ -3,8 +3,8 @@ title: Privacy Policy
 description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at
   aliquam nibh, quis tincidunt ante. Vivamus sit amet diam et velit aliquam
   aliquam at ut neque.
-companyname: Supersonic Sites
-companyemail: hello@supersonicsites.com
+companyname: Griffin Painting
+companyemail: allan@griffinpainting.ca
 layout: privacy_policy
 ---
 

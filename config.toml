@@ -1,9 +1,69 @@
-baseURL = "/"
-title = "Supersonic"
-description = "Lorem Ipsum"
+title = "Griffin Painting"
+description = "The Top Vancouver Island Painting & Pressure Washing Services. Get a free no contact estimate. Book online or call today! Our professional painters are ready to transform your home or business."
 languageCode = "en-ca"
+baseURL = "/"
 DefaultContentLanguage = "en"
 disableKinds = ["taxonomy", "taxonomyTerm", "RSS"]
+
+[params]
+gtm = "GTM-NBDLGX3"
+servicename = "ProfessionalService"
+googlemap = "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1324266.1190198846!2d-126.9693421123112!3d49.58912588292742!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5488135e104bec87%3A0xc935ddf37994210c!2sGriffin%20Painting!5e0!3m2!1sen!2sca!4v1635169493264!5m2!1sen!2sca"
+sitename = "Griffin Painting"
+usebasin = "https://usebasin.com/f/5b971a10c9a5"
+videoOn = true
+description = "The Top Vancouver Island Painting & Pressure Washing Services. Get a free no contact estimate. Book online or call today! Our professional painters are ready to transform your home or business."
+
+[params.schema]
+ogimage = "https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/524d48e7-fa7a-402b-cec1-2ff38d4e9b00/FullBackgroundDesktop"
+logofooter = "https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/508325bb-c6c5-4b21-3456-c5c963791100/SquareDesktop"
+city = "Ucluelet"
+logo = "https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/508325bb-c6c5-4b21-3456-c5c963791100/public"
+reservation = true
+phone = "+1-778-585-8740"
+priceRange = "$$$"
+region = "BC"
+country = "Canada"
+postalcode = "V0R 3A0"
+type = "ProfessionalService"
+openinghour = "Mo-Su"
+email = "allan@griffinpainting.ca"
+address1 = "#"
+address2 = "#"
+address_toggle = false
+
+[params.social]
+facebook = "https://www.facebook.com/Griffin-Painting-102005895302182"
+twitter = "#"
+pinterest = "#"
+instagram = "https://www.instagram.com/griffinpaintingltd"
+linkedin = "#"
+
+[[params.hours]]
+hours = "Mon to Fri: 8AM to 7PM"
+
+[[params.hours]]
+hours = "Tue: 8AM to 7PM"
+
+[[params.hours]]
+hours = "Sat: 8AM to 7PM"
+
+[[params.hours]]
+hours = "Sun: 8AM to 7PM"
+
+[module]
+
+[[module.mounts]]
+source = "assets"
+target = "assets"
+
+[[module.mounts]]
+source = "./node_modules/alpinejs/dist/alpine.js"
+target = "assets/js/alpine.js"
+
+[[module.mounts]]
+source = "./node_modules/lazysizes/lazysizes.js"
+target = "assets/js/lazysizes.js"
 
 [sitemap]
 changefreq = "monthly"
@@ -41,60 +101,6 @@ url = "contact/"
 weight = "5"
 
 [[menu.main]]
-name = "Appointment"
-url = "/"
+name = "Get A Quote"
+url = "quote/"
 weight = "6"
-
-[params]
-gtm = "#"
-servicename = "WebDesign"
-googlemap = "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10486.075597019064!2d-125.5296457!3d48.9245577!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x231041e6ea05c1b5!2sSteam%20Train%20Creative!5e0!3m2!1sen!2sca!4v1626282835512!5m2!1sen!2sca"
-sitename = "Supersonic Template"
-usebasin = "#"
-videoOn = false
-description = "Lorem ipsum"
-
-[params.schema]
-ogimage = "/img/supersonicsites-logo-final-750x450-1.png"
-logofooter = "/img/supersonicsites-logo-final-750x450-1.png"
-city = "Vancouver"
-logo = "/img/supersonicsites-1.png"
-reservation = true
-phone = "+1-888-321-BOOM"
-priceRange = "$$$"
-region = "BC"
-country = "Canada"
-postalcode = "V5V 3N5"
-type = "WebDesign"
-openinghour = "Mo-Sa: 10-6"
-email = "hello@supersonicsites.com"
-address1 = "3622 Main Street"
-address2 = "#"
-address_toggle = true
-
-[params.social]
-facebook = "#"
-twitter = "#"
-pinterest = "#"
-instagram = "/"
-linkedin = "#"
-
-[[params.hours]]
-hours = "Mon to Sat: 10AM to 6PM"
-
-[[params.hours]]
-hours = "Sun: CLOSED"
-
-[module]
-
-    [[module.mounts]]
-        source = "assets"
-        target = "assets"
-
-    [[module.mounts]]
-        source = "./node_modules/alpinejs/dist/alpine.js"
-        target = "assets/js/alpine.js"
-
-    [[module.mounts]]
-        source = "./node_modules/lazysizes/lazysizes.js"
-        target = "assets/js/lazysizes.js"
