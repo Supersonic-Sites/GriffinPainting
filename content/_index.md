@@ -6,7 +6,7 @@ description: The Top Vancouver Island Painting & Pressure Washing Services. Get
 components:
   - cta2: Contact Us
     img: /img/
-    cta_link: /contact/
+    cta_link: /quote/
     cta: Get A Quote
     desc: Interior, exterior, residential & commercial painting company with more
       than 15 years of experience. We  are ready to transform your home or
@@ -15,7 +15,7 @@ components:
     title: Vancouver Island's Top Professional Painters
     cta2_select: true
     type: hero
-    pre_title: Serving Victoria, Ucluelet, Tofino, Comox Valley & All Vancouver Islands
+    pre_title: Serving Victoria, Ucluelet, Tofino, Comox Valley & All Vancouver Island
   - type: divider
     bg_color: white
   - type: heading_full
@@ -36,29 +36,34 @@ components:
   - type: cards_half_img
     bg_color: white
     cards:
-      - img_alt: Indoor Painting
+      - img_alt: Outdoor Painting
         cta: Call To Action
         cta_link: contact/
         aos: fade-up
         title: Outdoor Painting
         img: https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/4549869b-f82e-4ed2-54c9-9f57f0d71000/cardsHalfImg
-        desc: A home is a place to care for oneself. A space for comfort and relaxation.
-          Why not personalize and perfect your environment?
+        desc: Add  color to your life while adding value to your home.  Protecting your
+          investment with beautiful lasting results blending quality
+          craftsmanship, and customer care.
       - img_alt: Indoor Painting
         cta: Call To Action
         cta_link: contact/
         aos: fade-up
         title: Indoor Painting
-        img: https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/d08e0609-1c46-4310-1d2c-a5b9d4692c00/cardsHalfImg
-        desc: A home is a place to care for oneself. A space for comfort and relaxation.
-          Why not personalize and perfect your environment?
-      - img: https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/fc42793f-6993-4dfa-6a35-20afe27dde00/cardsHalfImg
+        img: https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/cf05e8cb-8d7a-48f9-6644-a6eb4cc51900/cardsHalfImg
+        desc: "Color can sway thinking, change actions, and cause reactions. What are
+          the colors inside your home saying to you or about you?  Change your
+          colors and change your life!  Get a new look without a full
+          renovation. "
+      - img: https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/adbd689a-8609-48a9-3be9-734c5e291700/cardsHalfImg
         aos: fade-up
         cta_link: free-consultation/
         img_alt: Residential Automation
         cta: Call To Action
-        desc: A home is a place to care for oneself. A space for comfort and relaxation.
-          Why not personalize and perfect your environment?
+        desc: Painting your home inside or out is a simple way to increase the value and
+          appeal of your home. Our professionals will prep and prime your home,
+          fix minor damage and apply your new paint with finesse that only comes
+          with decades of hands-on experience.
         aos_select: false
         title: Residential Painting
       - img: https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/382e1842-3ea5-484b-54aa-e413d42a5000/cardsHalfImg
@@ -67,8 +72,9 @@ components:
         cta_select: false
         img_alt: Multi Residential Units Automation
         cta: Call To Action
-        desc: A home is a place to care for oneself. A space for comfort and relaxation.
-          Why not personalize and perfect your environment?
+        desc: Whether you operate an industrial facility, manage a corporate office or
+          have recently purchased a retail location, a quality paint job makes a
+          statement to both employees and potential customers.
         aos_select: false
         title: Commercial Painting
   - type: divider2x
@@ -94,9 +100,9 @@ components:
     type: img_half_right
   - type: divider
     bg_color: white
-  - type: video_half_right
+  - type: video_half_left
     bg_color: white
-    VideoID: YeI6Wqn4I78
+    VideoID: 6nAUtBdrnk0
     title: How to Choose the Right Color?
     desc: >-
       Let's learn color theory and how to choose colors that work well
@@ -118,57 +124,49 @@ components:
   - type: testimonial_half
     bg_color: white
     testimonials:
-      - name: Jeff M.
-        img: DEV/cropped-Supersonic-sites__logo-192x192__1__f85PI13RW.png
-        img_alt: Description of the picture here
-        position: CEO at Tulip.com
-        desc: Finely Tuned Technologies (FTT) was referred to me many, many years ago. I
-          needed to calibrate my Media Room projector and my surround sound
-          system. It quickly became evident that Richard was an expert in his
-          field, a stickler for detail and exactness which is truly hard to find
-          these days. Richard has always responded to my electronics needs in
-          the most professional and expeditious way. I recently had FTT install
-          a 'Smart Home' system throughout my house that controls security
-          cameras, music, lights, heating and leak detection. Richard installed
-          all the Smart Home equipment to his usual exacting standard and I am
-          very pleased with the result. I highly recommend the services of
-          Finely Tuned Technologies.
-      - name: Brandon B.
-        img: DEV/cropped-Supersonic-sites__logo-192x192__1__f85PI13RW.png
-        img_alt: Description of the picture here
-        position: CEO at Tulip.com
-        desc: I am VERY HAPPY with the service, professionalism you and your team have
-          provided. You have a solid crew, you guys leave the job cleaner than
-          when you got there and I can see why you are known as the authority
-          out here in the Greater Vancouver Area. Your expertise and above and
-          beyond attitude combined with your high level of attention to detail
-          is a hard quality to find and its appreciated!
-      - name: Dr. Sharma S
-        img: DEV/cropped-Supersonic-sites__logo-192x192__1__f85PI13RW.png
-        img_alt: Description of the picture here
-        position: CEO at Tulip.com
+      - name: Mike Colwill
+        img: https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/faa2f546-e583-4c57-a6cd-68385d00f000/TestimonialBubble
+        img_alt: MIKE COLWILL
+        position: FERNWOOD PIZZA COMPANY
+        desc: I have had the pleasure to work with Griffin Painting on multiple jobs,
+          both commercial and residential. The work ethic and attention to
+          detail are second to none! I highly recommend Griffin Painting.
+        image_toggle: true
+      - name: Ami & Vittorio Cheli
+        img: https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/175ad71e-af51-40c4-6a89-f858651e0700/TestimonialBubble
+        img_alt: AMI & VITTORIO CHELI
+        position: Satisfied Customers
+        desc: The Griffin Painting team are consummate professionals who you can tell
+          has a passion for painting houses, especially heritage homes like
+          ours. I couldn’t more highly recommend Griffin Painting.
+        image_toggle: true
+      - name: Matt & Rebecca Dell
+        img: https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/566515c1-4bb9-4464-49c8-859414844600/TestimonialBubble
+        img_alt: MATT AND REBECCA DELL
+        position: Happy Customers
         desc: >+
-          I recently had a voice activated home automation system installed by
-          Richard Stokes @ Finely Tuned Technologies. As with his A/V and home
-          theatre skills (which I have used for 15 yrs) Richard displays
-          thorough knowledge and ability with his subject. His services are
-          timely, efficient and unparalleled , and he is readily available for
-          any queries before and after services = impeccable.  I would have no
-          hesitation in recommending him for your needs.
+          After looking for help to restore our 1907 character house for 2
+          years, we noticed their work on a similar house nearby. We contacted
+          Griffin Painting - their price was extremely competitive and their
+          detailed vision for restoring our house was exactly what we needed. We
+          could not be happier with the paint job Griffin Painting did on our
+          home.
 
-      - name: Bill M.
-        img: DEV/cropped-Supersonic-sites__logo-192x192__1__f85PI13RW.png
-        img_alt: Description of the picture here
-        position: CEO at Tulip.com
-        desc: >+
-          I recently had Richard Stokes (Finely Tuned Technologies) adjust and
-          upgrade my home theatre. It was a pleasure to watch him work –
-          relentless at getting everything as perfect as possible. I had the
-          system upgraded to high definition and WOW what a difference. It feels
-          like you could walk into the picture, as it is so real now. Thank you,
-          Richard, for all your care and expertise and providing a
-          movie-watching experience that is second to none.
-
+        image_toggle: true
+      - name: Maddy Speck
+        img: https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/82ebf984-0b84-43ba-5fea-42cb748bc300/TestimonialBubble
+        img_alt: Maddy Speck
+        position: Happy Customers
+        desc: >
+          From the very beginning Griffin Painting was a pleasure to deal with.
+          We got our Quote very quickly and it was clearly outlined what the job
+          would entail. We had great communication with Kyle and Allan; they
+          were always very professional. When it came time to do the job they
+          were very efficient, and they got the job done very quickly without
+          cutting any corners. We also appreciate the last minute suggestions
+          they made which improved the final look of our house. We do not
+          hesitate to recommend Griffin Painting.
+        image_toggle: true
   - type: divider
     bg_color: white
   - address4: Canada

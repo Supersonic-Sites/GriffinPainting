@@ -10,25 +10,42 @@ components:
     title: Our Services
   - type: divider
     bg_color: white
-  - img: https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/fc42793f-6993-4dfa-6a35-20afe27dde00/cardsHalfImg
+  - img: https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/a04f0376-0715-4554-2aa7-c0c182d7c800/cardsHalfImg
     aos: fade
-    cta_link: contact/
+    cta_link: quote/
     bg_color: white
-    img_alt: Please type in a description of the image
-    cta: Call To Action
-    desc: Lorem Ipsum
+    cta_select: true
+    img_alt: Residential Painting
+    cta: Get A Quote
+    desc: >-
+      Your home is your canvas, and you deserve painting services that realize
+      your vision with minimal stress and maximum quality. Whether you need
+      indoor or outdoor professional painting services, we are here for you. You
+      can trust our qualified and professional painters to leave you with crisp,
+      finished walls you'll be happy with.<br><br>
+
+      Contact us for questions and submit a request for a free quote to get started with us.
     title: Residential Painting
     type: img_half_right
   - type: divider
     bg_color: white
   - img: https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/382e1842-3ea5-484b-54aa-e413d42a5000/cardsHalfImg
     aos: fade
-    cta_link: contact/
+    cta_link: quote/
     bg_color: white
+    cta_select: true
     img_alt: Please type in a description of the image
-    cta: Call To Action
-    desc: Lorem
-    title: Commercial
+    cta: Get A Quote
+    desc: >-
+      We don’t just WOW our residential customers. We offer commercial painting
+      services too! No matter what the size of your commercial painting
+      job—whether it’s a single room or an entire office building—Griffin
+      Painting will complete your project on time, and on budget, without
+      totally disrupting your workday.<br><br>
+
+
+      Contact us for questions and submit a request for a free quote to get started with us.
+    title: Commercial Painting
     type: img_half_right
   - type: divider
     bg_color: white
@@ -36,5 +53,5 @@ components:
     bg_color: black
     title: Ready To Get A Quote?
     cta: Contact Us
-    cta_link: contact/
+    cta_link: quote/
 ---

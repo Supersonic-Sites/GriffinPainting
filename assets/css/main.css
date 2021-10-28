@@ -6,12 +6,12 @@
 
 
 .herobg {
-  background-image: linear-gradient(180deg, rgba(238,241,234,1) 0%, rgba(238,241,234,0.55) 15%, rgba(238,241,234,0.55) 85%, rgba(238,241,234,0.75) 100%), url('https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/d1c4f899-1a6f-4051-a424-584ba088c600/public');
+  background-image: linear-gradient(180deg, rgba(255,255,255,0.25) 0%, rgba(255,255,255,0.45) 15%, rgba(255,255,255,0.45) 85%, rgba(255,255,255,0.25) 100%), url('https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/e5fa7bbe-9c76-47b8-802a-a78c83a95c00/FullBackgroundDesktop');
   @apply bg-fixed;
 }
 @media only screen and (max-width: 768px) {
   .herobg {
-    background-image: linear-gradient(180deg, rgba(238,241,234,1) 0%, rgba(238,241,234,0.55) 15%, rgba(238,241,234,0.55) 85%, rgba(238,241,234,0.75) 100%), url('https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/d1c4f899-1a6f-4051-a424-584ba088c600/SquareDesktop');   
+    background-image: linear-gradient(180deg, rgba(255,255,255,0.25) 0%, rgba(255,255,255,0.45) 15%, rgba(255,255,255,0.45) 85%, rgba(255,255,255,0.25) 100%), url('https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/e5fa7bbe-9c76-47b8-802a-a78c83a95c00/MobileBackground'); 
     @apply bg-scroll;
   }
 }

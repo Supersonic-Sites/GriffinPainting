@@ -1,5 +1,5 @@
 <section class="container max-w-7xl mx-auto px-4" x-data="{}">
-<div class="grid grid-cols-12 gap-0 md:gap-8">    
+<div class="grid grid-cols-12 gap-0 md:gap-1">    
   {{ range .images }}
   <div class="col-span-12 md:col-span-4">
     <a
@@ -10,6 +10,8 @@
       alt="{{ .img_alt }}"
       class="w-full lazyload border-double border-ocre border-4"
       src="{{ .img }}"
+      width="320px"
+      height="320px"
       data-srcset="
       {{ .img }} 320w,
       {{ .img }} 640w,
@@ -33,7 +35,7 @@
         x-transition:leave-start="opacity-100 transform scale-100"
         x-transition:leave-end="opacity-0 transform scale-90"
         x-on:click.away="imgModalSrc = ''"
-        class="p-2 fixed w-full h-100 inset-0 z-50 overflow-hidden flex justify-center items-center bg-white bg-opacity-75"
+        class="p-2 fixed w-full h-100 inset-0 z-50 overflow-hidden flex justify-center items-center bg-white bg-opacity-90"
       >
         <div
           @click.away="imgModal = ''"
@@ -63,7 +65,7 @@
               class="object-contain h-1/2-screen"
               :src="imgModalSrc"
             />
-            <p x-text="imgModalDesc" class="text-center text-black tracking-widest text-xl"></p>
+            <p x-text="imgModalDesc" class="text-center text-black font-bold tracking-widest text-xl"></p>
           </div>
         </div>
       </div>

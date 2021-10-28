@@ -89,5 +89,5 @@ components:
     bg_color: black
     title: Ready To Get A Quote?
     cta: Contact Us
-    cta_link: contact/
+    cta_link: quote/
 ---
