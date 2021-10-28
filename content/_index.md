@@ -102,14 +102,10 @@ components:
     bg_color: white
   - type: video_half_left
     bg_color: white
-    VideoID: 6nAUtBdrnk0
-    title: How to Choose the Right Color?
+    VideoID: G6gzaReUFJQ
+    title: How to Choose the Right Paint Sheen?
     desc: >-
-      Let's learn color theory and how to choose colors that work well
-      together. 
-
-
-      Have you ever wondered how some artists are able to find perfect color combinations that just seem to work, every time? In this video, I’m going to show you how to use the color wheel and color harmonies to choose color combinations that look GOOD.
+      Learn how to choose paint that is right for you based on the differences and advantages of each paint sheen. Find out which ones wipe clean the easiest and which are best for hiding imperfections in your wall.  You’ll even get recommendations on which paint sheens are best for specific rooms in your home.
   - type: divider
     bg_color: white
   - type: heading_full
