@@ -5,7 +5,7 @@ description: The Top Vancouver Island Painting & Pressure Washing Services. Get
   painters are ready to transform your home or business.
 components:
   - cta2: Contact Us
-    img: https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/1a751f10-cc0e-448b-314a-a47a3a7c5800/cardsHalfImg
+    img: https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/1a751f10-cc0e-448b-314a-a47a3a7c5800/public
     cta_link: quote/
     img_alt: Professional Interior and Exterior Painting for Residence and Commerce
     cta: Get A Quote

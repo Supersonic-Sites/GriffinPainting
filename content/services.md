@@ -10,6 +10,21 @@ components:
     title: Our Services
   - type: divider
     bg_color: white
+  - type: heading_full
+    id: none
+    bg_color: white
+    align: left
+    title: We serve Victoria, Ucluelet, Tofino, Comox Valley & All Vancouver Island.
+    title_size: small
+    desc_select: true
+    desc: With over 15 years of experience, Griffin Painting is your go-to Vancouver
+      Island painting company. At Griffin Painting, we pride ourselves on
+      exceeding our clients expectations and providing quality painting services
+      from preparation all the way through to the finishing touches. From
+      interior to exterior, residential to commercial, we would be happy to help
+      you with whatever painting services you need.
+  - type: divider_half
+    bg_color: white
   - img: https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/a04f0376-0715-4554-2aa7-c0c182d7c800/cardsHalfImg
     aos: fade
     cta_link: quote/
