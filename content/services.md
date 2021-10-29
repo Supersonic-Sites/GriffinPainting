@@ -14,7 +14,7 @@ components:
     id: none
     bg_color: white
     align: left
-    title: We serve Victoria, Ucluelet, Tofino, Comox Valley & All Vancouver Island.
+    title: We service Victoria, Ucluelet, Tofino, Comox Valley & All Vancouver Island.
     title_size: small
     desc_select: true
     desc: With over 15 years of experience, Griffin Painting is your go-to Vancouver
