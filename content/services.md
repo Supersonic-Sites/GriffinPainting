@@ -22,7 +22,7 @@ components:
       exceeding our clients expectations and providing quality painting services
       from preparation all the way through to the finishing touches. From
       interior to exterior, residential to commercial, we would be happy to help
-      you with whatever painting services you need.
+      you with whatever painting services you need. 
   - type: divider_half
     bg_color: white
   - img: https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/a04f0376-0715-4554-2aa7-c0c182d7c800/cardsHalfImg
@@ -38,7 +38,7 @@ components:
       indoor or outdoor professional painting services, we are here for you. You
       can trust our qualified and professional painters to leave you with crisp,
       finished walls you'll be happy with.<br><br>
-
+      <strong>Interior + exterior painting available.</strong><br><br>
       Contact us for questions and submit a request for a free quote to get started with us.
     title: Residential Painting
     type: img_half_right
@@ -57,7 +57,7 @@ components:
       job—whether it’s a single room or an entire office building—Griffin
       Painting will complete your project on time, and on budget, without
       totally disrupting your workday.<br><br>
-
+      <strong>Interior + exterior painting available.</strong><br><br>
 
       Contact us for questions and submit a request for a free quote to get started with us.
     title: Commercial Painting
