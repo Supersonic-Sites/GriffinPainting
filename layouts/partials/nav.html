@@ -5,7 +5,7 @@
         <div class="flex items-center">
         <a class="md:ml-4" href="{{ $.Site.BaseURL | absURL }}">
           
-          <img class="p-2 w-60" 
+          <img class="w-44" 
           width="208px"
           height="83px" 
           src="{{ .Site.Params.schema.logo }}" alt="{{ .Site.Params.sitename }}">
@@ -37,7 +37,7 @@
           <ul id="desktop_menu" class="flex">
               {{ range .Site.Menus.main -}}
               <li class="py-12 px-6 font-bold  transition duration-500 border-b-4 border-transparent hover:border-primary hover:text-secondary active:text-primary text-gray-700">        
-              <a class="text-xl" href="{{ .URL | relLangURL }}">{{ .Name }}</a>
+              <a class="text-2xl font-bold" href="{{ .URL | relLangURL }}">{{ .Name }}</a>
             </li>
               {{ end }}
             

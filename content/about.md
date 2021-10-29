@@ -26,7 +26,7 @@ components:
 
       Phil Cheevers (left) partnered with Kyle to expand the business and meet the growing demand from happy clients. Born in Vancouver but living in Victoria for the past 20 years, Phil has a history in the business world but no desire to sit behind a desk. While he is not painting, he's also hanging out with his wife and two sons (almost identical ages to Kyle's), kiteboarding, travelling, as well as running a business in Mexico. 
     aos_select: true
-    title: About Griffin Painting Founders
+    title: About Griffin Painting
     type: img_half_right
   - type: divider_half
     bg_color: white
@@ -86,7 +86,7 @@ components:
   - type: divider
     bg_color: white
   - type: cta
-    bg_color: black
+    bg_color: primary
     title: Ready To Get A Quote?
     cta: Contact Us
     cta_link: quote/

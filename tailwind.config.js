@@ -46,7 +46,7 @@ module.exports = {
         ],
       },
       colors: {
-        'primary': '#07789b',
+        'primary': '#4B5563',
         'ocre': '#d7d6cd',
         'lila': '#c2b3dc',
         'verde': '#d6e2ba',

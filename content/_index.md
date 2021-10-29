@@ -5,24 +5,26 @@ description: The Top Vancouver Island Painting & Pressure Washing Services. Get
   painters are ready to transform your home or business.
 components:
   - cta2: Contact Us
-    img: /img/
-    cta_link: /quote/
+    img: https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/1a751f10-cc0e-448b-314a-a47a3a7c5800/cardsHalfImg
+    cta_link: quote/
+    img_alt: Professional Interior and Exterior Painting for Residence and Commerce
     cta: Get A Quote
     desc: Interior, exterior, residential & commercial painting company with more
       than 15 years of experience. We  are ready to transform your home or
-      business.
+      business. We serve Victoria, Ucluelet, Tofino, Comox Valley & All
+      Vancouver Island.
     cta2_link: contact/
-    title: Vancouver Island's Top Professional Painters
+    title1: Vancouver Island's Top <span class="text-primary">Professional </span>
     cta2_select: true
-    type: hero
-    pre_title: Serving Victoria, Ucluelet, Tofino, Comox Valley & All Vancouver Island
+    title2: Painters
+    type: hero_half_img_diagonal
   - type: divider
     bg_color: white
   - type: heading_full
     id: none
     bg_color: white
     align: center
-    title: Experience. Local. Quality.
+    title: Professional Painting Done Right.
     title_size: medium
     desc_select: true
     desc: "With over 15 years of experience, Griffin Painting is your go-to
@@ -36,25 +38,6 @@ components:
   - type: cards_half_img
     bg_color: white
     cards:
-      - img_alt: Outdoor Painting
-        cta: Call To Action
-        cta_link: contact/
-        aos: fade-up
-        title: Outdoor Painting
-        img: https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/4549869b-f82e-4ed2-54c9-9f57f0d71000/cardsHalfImg
-        desc: Add  color to your life while adding value to your home.  Protecting your
-          investment with beautiful lasting results blending quality
-          craftsmanship, and customer care.
-      - img_alt: Indoor Painting
-        cta: Call To Action
-        cta_link: contact/
-        aos: fade-up
-        title: Indoor Painting
-        img: https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/cf05e8cb-8d7a-48f9-6644-a6eb4cc51900/cardsHalfImg
-        desc: "Color can sway thinking, change actions, and cause reactions. What are
-          the colors inside your home saying to you or about you?  Change your
-          colors and change your life!  Get a new look without a full
-          renovation. "
       - img: https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/adbd689a-8609-48a9-3be9-734c5e291700/cardsHalfImg
         aos: fade-up
         cta_link: free-consultation/
@@ -77,6 +60,25 @@ components:
           statement to both employees and potential customers.
         aos_select: false
         title: Commercial Painting
+      - img_alt: Outdoor Painting
+        cta: Call To Action
+        cta_link: contact/
+        aos: fade-up
+        title: Outdoor Painting
+        img: https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/4549869b-f82e-4ed2-54c9-9f57f0d71000/cardsHalfImg
+        desc: Add  color to your life while adding value to your home.  Protecting your
+          investment with beautiful lasting results blending quality
+          craftsmanship, and customer care.
+      - img_alt: Indoor Painting
+        cta: Call To Action
+        cta_link: contact/
+        aos: fade-up
+        title: Indoor Painting
+        img: https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/cf05e8cb-8d7a-48f9-6644-a6eb4cc51900/cardsHalfImg
+        desc: "Color can sway thinking, change actions, and cause reactions. What are
+          the colors inside your home saying to you or about you?  Change your
+          colors and change your life!  Get a new look without a full
+          renovation. "
   - type: divider2x
     bg_color: white
   - img: https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/8ddcd360-acfe-4ed3-15a0-0c2c5c99b700/SquareDesktop
@@ -96,16 +98,26 @@ components:
 
       Phil Cheevers (left) partnered with Kyle to expand the business and meet the growing demand from happy clients. Born in Vancouver but living in Victoria for the past 20 years, Phil has a history in the business world but no desire to sit behind a desk. While he is not painting, he's also hanging out with his wife and two sons (almost identical ages to Kyle's), kiteboarding, travelling, as well as running a business in Mexico. 
     aos_select: true
-    title: About The Founders
+    title: <span class="text-primary font-extrabold">About The Founders</span>
     type: img_half_right
   - type: divider
     bg_color: white
-  - type: video_half_left
+  - type: heading_full
+    id: none
     bg_color: white
-    VideoID: G6gzaReUFJQ
+    align: center
+    title_size: small
+    desc_select: true
+    desc: Learn how to choose paint that is right for you based on the differences
+      and advantages of each paint sheen. Find out which ones wipe clean the
+      easiest and which are best for hiding imperfections in your wall.  You’ll
+      even get recommendations on which paint sheens are best for specific rooms
+      in your home.
     title: How to Choose the Right Paint Sheen?
-    desc: >-
-      Learn how to choose paint that is right for you based on the differences and advantages of each paint sheen. Find out which ones wipe clean the easiest and which are best for hiding imperfections in your wall.  You’ll even get recommendations on which paint sheens are best for specific rooms in your home.
+  - type: divider_half
+    bg_color: white
+  - type: video_full
+    VideoID: G6gzaReUFJQ
   - type: divider
     bg_color: white
   - type: heading_full
@@ -163,8 +175,6 @@ components:
           they made which improved the final look of our house. We do not
           hesitate to recommend Griffin Painting.
         image_toggle: true
-  - type: divider
-    bg_color: white
   - address4: Canada
     bg_color: white
     phone: +1-778-585-8740

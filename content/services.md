@@ -50,7 +50,7 @@ components:
   - type: divider
     bg_color: white
   - type: cta
-    bg_color: black
+    bg_color: primary
     title: Ready To Get A Quote?
     cta: Contact Us
     cta_link: quote/

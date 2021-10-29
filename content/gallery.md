@@ -13,6 +13,12 @@ components:
     bg_color: white
   - type: gallery_lightbox
     images:
+      - img_alt: Interior Residential Painting
+        img: https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/2df5226f-281d-4bea-faa0-b0a09d541d00/SquareDesktop
+      - img_alt: Residential Painting Dining Room
+        img: https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/2b504443-b80e-41bf-e2ab-f6915775e000/SquareDesktop
+      - img_alt: Bathroom Painting
+        img: https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/3a8ac87a-e142-4177-6cd8-a46900e62b00/SquareDesktop
       - img_alt: Residential Exterior Painting Before
         img: https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/0235c32a-a322-4d96-f841-c0c37cf50f00/SquareDesktop
       - img_alt: Residential Exterior Painting After
@@ -34,7 +40,7 @@ components:
   - type: divider
     bg_color: white
   - type: cta
-    bg_color: black
+    bg_color: primary
     title: Ready To Get A Quote?
     cta: Contact Us
     cta_link: quote/
