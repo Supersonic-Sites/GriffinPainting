@@ -14,7 +14,8 @@ components:
     id: none
     bg_color: white
     align: left
-    title: We service Victoria, Ucluelet, Tofino, Comox Valley & All Vancouver Island.
+    title: We serve Victoria, Ucluelet, Tofino, Nanaimo, the Comox Valley, and all
+      Vancouver Island.
     title_size: small
     desc_select: true
     desc: With over 15 years of experience, Griffin Painting is your go-to Vancouver
@@ -22,7 +23,7 @@ components:
       exceeding our clients expectations and providing quality painting services
       from preparation all the way through to the finishing touches. From
       interior to exterior, residential to commercial, we would be happy to help
-      you with whatever painting services you need. 
+      you with whatever painting services you need.
   - type: divider_half
     bg_color: white
   - img: https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/a04f0376-0715-4554-2aa7-c0c182d7c800/cardsHalfImg
@@ -32,14 +33,13 @@ components:
     cta_select: true
     img_alt: Residential Painting
     cta: Get A Quote
-    desc: >-
-      Your home is your canvas, and you deserve painting services that realize
+    desc: Your home is your canvas, and you deserve painting services that realize
       your vision with minimal stress and maximum quality. Whether you need
       indoor or outdoor professional painting services, we are here for you. You
       can trust our qualified and professional painters to leave you with crisp,
-      finished walls you'll be happy with.<br><br>
-      <strong>Interior + exterior painting available.</strong><br><br>
-      Contact us for questions and submit a request for a free quote to get started with us.
+      finished walls you'll be happy with.<br><br> <strong>Interior + exterior
+      painting available.</strong><br><br> Contact us for questions and submit a
+      request for a free quote to get started with us.
     title: Residential Painting
     type: img_half_right
   - type: divider
@@ -56,8 +56,8 @@ components:
       services too! No matter what the size of your commercial painting
       job—whether it’s a single room or an entire office building—Griffin
       Painting will complete your project on time, and on budget, without
-      totally disrupting your workday.<br><br>
-      <strong>Interior + exterior painting available.</strong><br><br>
+      totally disrupting your workday.<br><br> <strong>Interior + exterior
+      painting available.</strong><br><br>
 
       Contact us for questions and submit a request for a free quote to get started with us.
     title: Commercial Painting

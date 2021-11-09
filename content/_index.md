@@ -11,8 +11,8 @@ components:
     cta: Get A Quote
     desc: Interior, exterior, residential & commercial painting company with more
       than 15 years of experience. We  are ready to transform your home or
-      business. We serve Victoria, Ucluelet, Tofino, Comox Valley & All
-      Vancouver Island.
+      business. We serve Victoria, Ucluelet, Tofino, Nanaimo, the Comox Valley,
+      and all Vancouver Island..
     cta2_link: contact/
     title1: Vancouver Island's Top <span class="text-primary">Professional </span>
     cta2_select: true
@@ -27,12 +27,15 @@ components:
     title: Professional Painting Done Right.
     title_size: medium
     desc_select: true
-    desc: "With over 15 years of experience, Griffin Painting is your go-to
-      Vancouver Island painting company. At Griffin Painting, we pride ourselves
-      on exceeding our clients expectations and providing quality painting
-      services from preparation all the way through to the finishing
-      touches.  From interior to exterior, residential to commercial, we would
-      be happy to help you with whatever painting services you need. "
+    desc: With over 20 years of experience, Griffin Painting is your Go-to Vancouver
+      Island Painting Company.  At Griffin Painting, we pride ourselves in
+      exceeding our clients expectations and providing quality painting services
+      from preparation all the way through to the finishing touches. We
+      specialize in finding the least impactful way to complete difficult
+      projects such as an occupied resort or strata vacation rental where a soft
+      touch is needed to keep the business operating while still completing the
+      work.  From interior to exterior, residential to commercial, we would be
+      happy to help you with whatever painting services you need.
   - type: divider_half
     bg_color: white
   - type: cards_half_img
@@ -88,15 +91,21 @@ components:
     cta_select: false
     img_alt: Picture of the founders of Griffin Painting
     cta: Free Consultation
-    desc: >-
-      Born and raised in the Comox Valley, Kyle Griffin (right) started Griffin
-      Painting over fifteen years ago. What started as a summer business he has
-      grown into one of Vancouver Island's most well respected painting
-      business'. When he is not painting, Kyle is passionate about spending time
-      with his wife and two sons, surfing, and travelling. <br><br>
+    desc: >
+      <h3 class="font-bold text-2xl  text-primary">Kyle Griffin</h3><br>
 
 
-      Phil Cheevers (left) partnered with Kyle to expand the business and meet the growing demand from happy clients. Born in Vancouver but living in Victoria for the past 20 years, Phil has a history in the business world but no desire to sit behind a desk. While he is not painting, he's also hanging out with his wife and two sons (almost identical ages to Kyle's), kiteboarding, travelling, as well as running a business in Mexico. 
+      Born and Raised in the Comox Valley, Kyle Griffin began in the industry over twenty years ago and has been operating Griffin Painting for more than fifteen years. What started as a summer business to pay for University has now turned into one of Vancouver Island’s most well respected businesses’. Kyle is very passionate about painting.  He strives to find the most efficient, least impactful way to complete every project, no matter how complex, while using his wealth of experience to choose the best coating for every application.  In his free time he enjoys spending time with his wife and two sons, surfing and travelling.<br><br>
+
+
+      <h3 class="font-bold text-2xl  text-primary">Phil Cheevers</h3><br>
+
+      Phil Cheevers partnered with Kyle to expand the business and meet the growing demand from happy clients. Born in Vancouver but living in Victoria for the past 20 years, Phil has a history in the business world but no desire to sit behind a desk. While he is not painting, he's also hanging out with his wife and two sons (almost identical ages to Kyle's), kiteboarding, travelling, as well as running a business in Mexico.<br><br>
+
+
+      <h3 class="font-bold text-2xl  text-primary">Allan Koch</h3><br>
+
+      Born and raised in the Comox Valley, Allan started his career as a red seal electrician, but took time away from the electrical world in the summers to paint with Kyle in the early days. Electrical work took him to multiple provinces in Canada, and provided opportunities to work with national institutions such as Via Rail as an Operations Manager for equipment maintenance and municipalities like the Town of Qualicum Beach as a Parks Superintendent, but his heart was in the Comox Valley. As a new father of twin boys and husband to his amazing wife, Allan's roots pulled his family back to his home turf to pursue an opportunity to work with his life long friend Kyle to help manage the growing business.
     aos_select: true
     title: <span class="text-primary font-extrabold">About The Founders</span>
     type: img_half_right

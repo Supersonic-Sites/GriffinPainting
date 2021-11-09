@@ -10,24 +10,53 @@ components:
     title: About Us
   - type: divider
     bg_color: white
-  - img: https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/8ddcd360-acfe-4ed3-15a0-0c2c5c99b700/SquareDesktop
+  - img: https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/524d48e7-fa7a-402b-cec1-2ff38d4e9b00/cardsHalfImg
     aos: zoom-in
     cta_link: contact/
     bg_color: white
-    img_alt: Please type in a description of the image
+    img_alt: Founders of Griffin Painting
     cta: Call To Action
-    desc: >-
-      Born and raised in the Comox Valley, Kyle Griffin (right) started Griffin
-      Painting over fifteen years ago. What started as a summer business he has
-      grown into one of Vancouver Island's most well respected painting
-      business'. When he is not painting, Kyle is passionate about spending time
-      with his wife and two sons, surfing, and travelling. <br><br>
+    desc: >
+      <h3 class="font-bold text-2xl  text-primary">Mission Statement</h3><br>
 
 
-      Phil Cheevers (left) partnered with Kyle to expand the business and meet the growing demand from happy clients. Born in Vancouver but living in Victoria for the past 20 years, Phil has a history in the business world but no desire to sit behind a desk. While he is not painting, he's also hanging out with his wife and two sons (almost identical ages to Kyle's), kiteboarding, travelling, as well as running a business in Mexico. 
+      At Griffin Painting we treat every project as if it was our own home.  We pride ourselves on our honesty and integrity, and always strive to provide as much value as possible for a fair price.  We are passionate about everything painting- finding the most efficient and highest quality way to complete every project no matter how difficult the circumstances.  We stand by our work and are excited to transform your home or business!<br><br>
+
+
+
+      <h2 class="font-extrabold text-4xl  text-primary">About The Founders</h2><br>
+
+      <h3 class="font-bold text-2xl  text-primary">Kyle Griffin</h3><br>
+
+
+      Born and Raised in the Comox Valley, Kyle Griffin began in the industry over twenty years ago and has been operating Griffin Painting for more than fifteen years. What started as a summer business to pay for University has now turned into one of Vancouver Island’s most well respected businesses’. Kyle is very passionate about painting.  He strives to find the most efficient, least impactful way to complete every project, no matter how complex, while using his wealth of experience to choose the best coating for every application.  In his free time he enjoys spending time with his wife and two sons, surfing and travelling.<br><br>
+
+
+      <h3 class="font-bold text-2xl  text-primary">Phil Cheevers</h3><br>
+
+      Phil Cheevers partnered with Kyle to expand the business and meet the growing demand from happy clients. Born in Vancouver but living in Victoria for the past 20 years, Phil has a history in the business world but no desire to sit behind a desk. While he is not painting, he's also hanging out with his wife and two sons (almost identical ages to Kyle's), kiteboarding, travelling, as well as running a business in Mexico.<br><br>
+
+
+      <h3 class="font-bold text-2xl  text-primary">Allan Koch</h3><br>
+
+      Born and raised in the Comox Valley, Allan started his career as a red seal electrician, but took time away from the electrical world in the summers to paint with Kyle in the early days. Electrical work took him to multiple provinces in Canada, and provided opportunities to work with national institutions such as Via Rail as an Operations Manager for equipment maintenance and municipalities like the Town of Qualicum Beach as a Parks Superintendent, but his heart was in the Comox Valley. As a new father of twin boys and husband to his amazing wife, Allan's roots pulled his family back to his home turf to pursue an opportunity to work with his life long friend Kyle to help manage the growing business.<br><br>
+
+
+      <h3 class="font-bold text-2xl  text-primary">Company Principles</h3><br>
+
+
+      - Treat every project with the same care and attention as you would your own house.<br>
+
+      - Deal with any client concerns or issues that arise or mistakes that may or may not have been made as soon as humanly possible, it’s always worse when not addressing things head on. <br>
+
+      - Always be polite and courteous, but also be confident in your ability and integrity, don’t let people take advantage of you.<br>
+
+      - Treat painting like it is your favorite sport- always striving to perfect your skills and achieve maximum speed and efficiency.<br>
+
+      - Never be afraid to ask questions, any time you question anything or think there may be a better way, ask or speak up. <br>
     aos_select: true
-    title: About Griffin Painting
-    type: img_half_right
+    title: <span class="font-extrabold text-primary">About Griffin Painting</span>
+    type: img_third_right
   - type: divider_half
     bg_color: white
   - type: cards_third_text
