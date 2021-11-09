@@ -74,8 +74,8 @@
           </h2>
           <form action="{{ $.Site.Params.usebasin }}" method="POST" class="grid grid-cols-1 gap-y-6">
             <div>
-              <label for="full_name" class="sr-only">Full name</label>
-              <input type="text" name="full_name" id="full_name" autocomplete="name"
+              <label for="name" class="sr-only">Full name</label>
+              <input type="text" name="name" id="name" autocomplete="name"
                 class="block w-full shadow-sm py-3 px-4 placeholder-black rounded-sm focus:border-white ring-primary"
                 placeholder="Full name">
             </div>
@@ -95,15 +95,15 @@
             <div class="w-full">
               <label for="package" class="">What type of property?</label><br>
               <div class="mt-2 mb-6 md:mb-0">
-              <input name="package" type="radio" value="Residential" class="text-primary ring-primary" required /> Residential </span><br /> 
-              <input name="package" type="radio" value="Commercial" class="text-primary ring-primary" required /> Commercial </span><br /> 
+              <input name="package" type="radio" value="Residential" class="text-primary ring-primary"  /> Residential </span><br /> 
+              <input name="package" type="radio" value="Commercial" class="text-primary ring-primary"  /> Commercial </span><br /> 
               </div>
             </div>
             <div class="w-full">
               <label for="package" class="">What type of service ?</label><br>
               <div class="mt-2">
-              <input name="package" type="checkbox" value="Indoor Painting" class="text-primary ring-primary" required /> Indoor Painting <br /> 
-              <input name="package" type="checkbox" value="Outdoor Painting" class="text-primary ring-primary" required /> Outdoor Painting <br /> 
+              <input name="package" type="checkbox" value="Indoor Painting" class="text-primary ring-primary" /> Indoor Painting <br /> 
+              <input name="package" type="checkbox" value="Outdoor Painting" class="text-primary ring-primary" /> Outdoor Painting <br /> 
               </div>
             </div>
           </div>
