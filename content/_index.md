@@ -44,24 +44,24 @@ components:
       - img: https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/adbd689a-8609-48a9-3be9-734c5e291700/cardsHalfImg
         aos: fade-up
         cta_link: free-consultation/
-        img_alt: Residential Automation
+        img_alt: Residential Painting
         cta: Call To Action
         desc: Painting your home inside or out is a simple way to increase the value and
           appeal of your home. Our professionals will prep and prime your home,
           fix minor damage and apply your new paint with finesse that only comes
           with decades of hands-on experience.
-        aos_select: false
+        aos_select: true
         title: Residential Painting
       - img: https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/382e1842-3ea5-484b-54aa-e413d42a5000/cardsHalfImg
         aos: fade-up
         cta_link: free-consultation/
         cta_select: false
-        img_alt: Multi Residential Units Automation
+        img_alt: Commercial Painting
         cta: Call To Action
         desc: Whether you operate an industrial facility, manage a corporate office or
           have recently purchased a retail location, a quality paint job makes a
           statement to both employees and potential customers.
-        aos_select: false
+        aos_select: true
         title: Commercial Painting
       - img_alt: Outdoor Painting
         cta: Call To Action
@@ -72,6 +72,7 @@ components:
         desc: Add  color to your life while adding value to your home.  Protecting your
           investment with beautiful lasting results blending quality
           craftsmanship, and customer care.
+        aos_select: true
       - img_alt: Indoor Painting
         cta: Call To Action
         cta_link: contact/
@@ -82,33 +83,74 @@ components:
           the colors inside your home saying to you or about you?  Change your
           colors and change your life!  Get a new look without a full
           renovation. "
+        aos_select: true
   - type: divider2x
     bg_color: white
-  - img: https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/8ddcd360-acfe-4ed3-15a0-0c2c5c99b700/SquareDesktop
-    aos: fade
-    cta_link: free-consultation/
+  - type: heading_full
+    id: none
     bg_color: white
-    cta_select: false
-    img_alt: Picture of the founders of Griffin Painting
-    cta: Free Consultation
-    desc: >
-      <h3 class="font-bold text-2xl  text-primary">Kyle Griffin</h3><br>
-
-
-      Born and Raised in the Comox Valley, Kyle Griffin began in the industry over twenty years ago and has been operating Griffin Painting for more than fifteen years. What started as a summer business to pay for University has now turned into one of Vancouver Island’s most well respected businesses’. Kyle is very passionate about painting.  He strives to find the most efficient, least impactful way to complete every project, no matter how complex, while using his wealth of experience to choose the best coating for every application.  In his free time he enjoys spending time with his wife and two sons, surfing and travelling.<br><br>
-
-
-      <h3 class="font-bold text-2xl  text-primary">Phil Cheevers</h3><br>
-
-      Phil Cheevers partnered with Kyle to expand the business and meet the growing demand from happy clients. Born in Vancouver but living in Victoria for the past 20 years, Phil has a history in the business world but no desire to sit behind a desk. While he is not painting, he's also hanging out with his wife and two sons (almost identical ages to Kyle's), kiteboarding, travelling, as well as running a business in Mexico.<br><br>
-
-
-      <h3 class="font-bold text-2xl  text-primary">Allan Koch</h3><br>
-
-      Born and raised in the Comox Valley, Allan started his career as a red seal electrician, but took time away from the electrical world in the summers to paint with Kyle in the early days. Electrical work took him to multiple provinces in Canada, and provided opportunities to work with national institutions such as Via Rail as an Operations Manager for equipment maintenance and municipalities like the Town of Qualicum Beach as a Parks Superintendent, but his heart was in the Comox Valley. As a new father of twin boys and husband to his amazing wife, Allan's roots pulled his family back to his home turf to pursue an opportunity to work with his life long friend Kyle to help manage the growing business.
-    aos_select: true
-    title: <span class="text-primary font-extrabold">About The Founders</span>
-    type: img_half_right
+    align: center
+    title: About The Founders
+    title_size: small
+    desc: a
+  - type: divider
+    bg_color: white
+  - img: https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/748adf28-7b04-467b-6f74-ff3266179400/SquareDesktop
+    aos: fade
+    cta_link: contact/
+    bg_color: white
+    img_alt: Please type in a description of the image
+    cta: Call To Action
+    desc: Born and Raised in the Comox Valley, Kyle Griffin began in the industry
+      over twenty years ago and has been operating Griffin Painting for more
+      than fifteen years. What started as a summer business to pay for
+      University has now turned into one of Vancouver Island’s most well
+      respected businesses’. Kyle is very passionate about painting.  He strives
+      to find the most efficient, least impactful way to complete every project,
+      no matter how complex, while using his wealth of experience to choose the
+      best coating for every application.  In his free time he enjoys spending
+      time with his wife and two sons, surfing and travelling.<br><br>
+    aos_select: false
+    title: <h3 class="font-bold text-3xl  text-primary">Kyle Griffin</h3><br>
+    type: img_third_right
+  - type: divider_half
+    bg_color: white
+  - img: https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/748adf28-7b04-467b-6f74-ff3266179400/SquareDesktop
+    aos: fade
+    cta_link: contact/
+    bg_color: white
+    img_alt: Please type in a description of the image
+    cta: Call To Action
+    desc: Phil Cheevers partnered with Kyle to expand the business and meet the
+      growing demand from happy clients. Born in Vancouver but living in
+      Victoria for the past 20 years, Phil has a history in the business world
+      but no desire to sit behind a desk. While he is not painting, he's also
+      hanging out with his wife and two sons (almost identical ages to Kyle's),
+      kiteboarding, travelling, as well as running a business in Mexico.<br><br>
+    aos_select: false
+    title: <h3 class="font-bold text-3xl  text-primary">Phil Cheevers</h3><br>
+    type: img_third_right
+  - type: divider_half
+    bg_color: white
+  - img: https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/748adf28-7b04-467b-6f74-ff3266179400/SquareDesktop
+    aos: fade
+    cta_link: contact/
+    bg_color: white
+    img_alt: Please type in a description of the image
+    cta: Call To Action
+    desc: Born and raised in the Comox Valley, Allan started his career as a red
+      seal electrician, but took time away from the electrical world in the
+      summers to paint with Kyle in the early days. Electrical work took him to
+      multiple provinces in Canada, and provided opportunities to work with
+      national institutions such as Via Rail as an Operations Manager for
+      equipment maintenance and municipalities like the Town of Qualicum Beach
+      as a Parks Superintendent, but his heart was in the Comox Valley. As a new
+      father of twin boys and husband to his amazing wife, Allan's roots pulled
+      his family back to his home turf to pursue an opportunity to work with his
+      life long friend Kyle to help manage the growing business.<br><br>
+    aos_select: false
+    title: <h3 class="font-bold text-3xl  text-primary">Allan Koch</h3><br>
+    type: img_third_right
   - type: divider
     bg_color: white
   - type: heading_full
@@ -157,17 +199,18 @@ components:
           has a passion for painting houses, especially heritage homes like
           ours. I couldn’t more highly recommend Griffin Painting.
         image_toggle: true
-      - name: Matt & Rebecca Dell
-        img: https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/566515c1-4bb9-4464-49c8-859414844600/TestimonialBubble
-        img_alt: MATT AND REBECCA DELL
+      - name: D Appleton
+        img: https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/e6cd6c92-8524-426e-0cb6-216c65c84700/TestimonialBubble
+        img_alt: D APPLETON
         position: Happy Customers
         desc: >+
-          After looking for help to restore our 1907 character house for 2
-          years, we noticed their work on a similar house nearby. We contacted
-          Griffin Painting - their price was extremely competitive and their
-          detailed vision for restoring our house was exactly what we needed. We
-          could not be happier with the paint job Griffin Painting did on our
-          home.
+          Griffin Painting recently completed a full exterior paint on my 100
+          year old house in Fairfield. Their crew arrived early each day, were
+          clean, respectful and worked diligently to get the job done on time
+          and on budget. The results were fantastic and I continue to have
+          neighbours stop by and comment how great the place looks! Phil and
+          Kyle were a pleasure to deal with. They take pride in their work and
+          I’m happy to say my century old home actually looks like new.
 
         image_toggle: true
       - name: Maddy Speck

@@ -29,6 +29,17 @@
               placeholder="Phone">
           </div>
           <div>
+            <label for="location">Where are you located?</label><br>
+
+            <select id="location" name="Location" class="block w-full py-3 px-4 placeholder-black focus:border-white ring-primary mt-2" required>
+              <option value="Victoria">Victoria</option>
+              <option value="Ucluelet">Ucluelet</option>
+              <option value="Tofino">Tofino</option>
+              <option value="Nanaimo">Nanaimo</option>
+              <option value="Elsewhere">Elsewhere on the Island</option>
+            </select>
+          </div>
+          <div>
             <label for="message" class="sr-only">Message</label>
             <textarea id="message" name="message" rows="4"
               class="block w-full shadow-sm py-3 px-4 placeholder-black rounded-sm focus:border-white ring-primary"

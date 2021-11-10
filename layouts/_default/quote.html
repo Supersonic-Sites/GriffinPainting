@@ -75,19 +75,19 @@
           <form action="{{ $.Site.Params.usebasin }}" method="POST" class="grid grid-cols-1 gap-y-6">
             <div>
               <label for="name" class="sr-only">Full name</label>
-              <input type="text" name="name" id="name" autocomplete="name"
+              <input type="text" name="Name" id="name" autocomplete="name"
                 class="block w-full shadow-sm py-3 px-4 placeholder-black rounded-sm focus:border-white ring-primary"
                 placeholder="Full name">
             </div>
             <div>
               <label for="email" class="sr-only">Email</label>
-              <input id="email" name="email" type="email" autocomplete="email"
+              <input id="email" name="Email" type="email" autocomplete="email"
                 class="block w-full shadow-sm py-3 px-4 placeholder-black rounded-sm focus:border-white ring-primary"
                 placeholder="Email">
             </div>
             <div>
               <label for="phone" class="sr-only">Phone</label>
-              <input type="text" name="phone" id="phone" autocomplete="tel"
+              <input type="text" name="Phone" id="phone" autocomplete="tel"
                 class="block w-full shadow-sm py-3 px-4 placeholder-black rounded-sm focus:border-white ring-primary"
                 placeholder="Phone">
             </div>
@@ -95,21 +95,32 @@
             <div class="w-full">
               <label for="package" class="">What type of property?</label><br>
               <div class="mt-2 mb-6 md:mb-0">
-              <input name="package" type="radio" value="Residential" class="text-primary ring-primary"  /> Residential </span><br /> 
-              <input name="package" type="radio" value="Commercial" class="text-primary ring-primary"  /> Commercial </span><br /> 
+              <input name="Type" type="radio" value="Residential" class="text-primary ring-primary"  /> Residential </span><br /> 
+              <input name="Type" type="radio" value="Commercial" class="text-primary ring-primary"  /> Commercial </span><br /> 
               </div>
             </div>
             <div class="w-full">
-              <label for="package" class="">What type of service ?</label><br>
+              <label for="Package" class="">What type of service ?</label><br>
               <div class="mt-2">
-              <input name="package" type="checkbox" value="Indoor Painting" class="text-primary ring-primary" /> Indoor Painting <br /> 
-              <input name="package" type="checkbox" value="Outdoor Painting" class="text-primary ring-primary" /> Outdoor Painting <br /> 
+              <input name="Painting" type="checkbox" value="Indoor Painting" class="text-primary ring-primary" /> Indoor Painting <br /> 
+              <input name="Painting" type="checkbox" value="Outdoor Painting" class="text-primary ring-primary" /> Outdoor Painting <br /> 
               </div>
             </div>
           </div>
+          <div>
+            <label for="location">Location</label><br>
+
+            <select id="location" name="Location" class="block w-full py-3 px-4 placeholder-black focus:border-white ring-primary mt-2" required>
+              <option value="Victoria">Victoria</option>
+              <option value="Ucluelet">Ucluelet</option>
+              <option value="Tofino">Tofino</option>
+              <option value="Nanaimo">Nanaimo</option>
+              <option value="Elsewhere">Elsewhere on the Island</option>
+            </select>
+          </div>
             <div>
               <label for="message" class="sr-only">Message</label>
-              <textarea id="message" name="message" rows="4"
+              <textarea id="message" name="Message" rows="4"
                 class="block w-full shadow-sm py-3 px-4 placeholder-black rounded-sm focus:border-white ring-primary"
                 placeholder="Message"></textarea>
             </div>
