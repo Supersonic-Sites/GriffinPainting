@@ -96,7 +96,7 @@ components:
   - type: divider
     bg_color: white
   - img: https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/748adf28-7b04-467b-6f74-ff3266179400/SquareDesktop
-    aos: fade
+    aos: fade-up
     cta_link: contact/
     bg_color: white
     img_alt: Please type in a description of the image
@@ -110,13 +110,13 @@ components:
       no matter how complex, while using his wealth of experience to choose the
       best coating for every application.  In his free time he enjoys spending
       time with his wife and two sons, surfing and travelling.<br><br>
-    aos_select: false
+    aos_select: true
     title: <h3 class="font-bold text-3xl  text-primary">Kyle Griffin</h3><br>
     type: img_third_right
   - type: divider_half
     bg_color: white
   - img: https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/748adf28-7b04-467b-6f74-ff3266179400/SquareDesktop
-    aos: fade
+    aos: fade-up
     cta_link: contact/
     bg_color: white
     img_alt: Please type in a description of the image
@@ -127,13 +127,13 @@ components:
       but no desire to sit behind a desk. While he is not painting, he's also
       hanging out with his wife and two sons (almost identical ages to Kyle's),
       kiteboarding, travelling, as well as running a business in Mexico.<br><br>
-    aos_select: false
+    aos_select: true
     title: <h3 class="font-bold text-3xl  text-primary">Phil Cheevers</h3><br>
     type: img_third_right
   - type: divider_half
     bg_color: white
   - img: https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/748adf28-7b04-467b-6f74-ff3266179400/SquareDesktop
-    aos: fade
+    aos: fade-up
     cta_link: contact/
     bg_color: white
     img_alt: Please type in a description of the image
@@ -148,7 +148,7 @@ components:
       father of twin boys and husband to his amazing wife, Allan's roots pulled
       his family back to his home turf to pursue an opportunity to work with his
       life long friend Kyle to help manage the growing business.<br><br>
-    aos_select: false
+    aos_select: true
     title: <h3 class="font-bold text-3xl  text-primary">Allan Koch</h3><br>
     type: img_third_right
   - type: divider
