@@ -31,7 +31,7 @@ components:
     cta_link: quote/
     bg_color: white
     cta_select: true
-    img_alt: Residential Painting
+    img_alt: Interior photography of Griffin residential painting services
     cta: Get A Quote
     desc: Your home is your canvas, and you deserve painting services that realize
       your vision with minimal stress and maximum quality. Whether you need
@@ -49,7 +49,7 @@ components:
     cta_link: quote/
     bg_color: white
     cta_select: true
-    img_alt: Please type in a description of the image
+    img_alt: Interior photography of Griffin commercial painting services
     cta: Get A Quote
     desc: >-
       We don’t just WOW our residential customers. We offer commercial painting

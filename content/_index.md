@@ -99,7 +99,7 @@ components:
     aos: fade-up
     cta_link: contact/
     bg_color: white
-    img_alt: Please type in a description of the image
+    img_alt: Picture of the founder Kyle Griffin and his family.
     cta: Call To Action
     desc: Born and Raised in the Comox Valley, Kyle Griffin began in the industry
       over twenty years ago and has been operating Griffin Painting for more
@@ -115,11 +115,11 @@ components:
     type: img_third_right
   - type: divider_half
     bg_color: white
-  - img: https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/748adf28-7b04-467b-6f74-ff3266179400/SquareDesktop
+  - img: https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/9a6ccf94-ff9f-4fdd-edf3-03e3c0c27500/SquareDesktop
     aos: fade-up
     cta_link: contact/
     bg_color: white
-    img_alt: Please type in a description of the image
+    img_alt: Picture of the founder Phil Cheevers and his family
     cta: Call To Action
     desc: Phil Cheevers partnered with Kyle to expand the business and meet the
       growing demand from happy clients. Born in Vancouver but living in
@@ -132,11 +132,11 @@ components:
     type: img_third_right
   - type: divider_half
     bg_color: white
-  - img: https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/748adf28-7b04-467b-6f74-ff3266179400/SquareDesktop
+  - img: https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/08aaf653-093c-4cfc-e529-01b8d6117800/cardsHalfImg
     aos: fade-up
     cta_link: contact/
     bg_color: white
-    img_alt: Please type in a description of the image
+    img_alt: Picture of the founder Allan Koch and his family
     cta: Call To Action
     desc: Born and raised in the Comox Valley, Allan started his career as a red
       seal electrician, but took time away from the electrical world in the
