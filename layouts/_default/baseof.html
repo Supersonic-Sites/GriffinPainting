@@ -9,9 +9,9 @@
     {{ $aos := resources.Get "js/aos.js" }}
 
     {{ $js := resources.Get "js/script.js" }}
-    {{ $concatjs := slice $alpinejs $lazysizes $aos $js | resources.Concat "js/bundle.js" | resources.Minify }}
+    {{ $concatjs := slice $alpinejs $lazysizes $js | resources.Concat "js/bundle.js" | resources.Minify }}
     {{ $securejs := $concatjs | resources.Fingerprint "sha512" }}
-
+    <script src="{{ $aos.Permalink }}" ></script>    
     <script src="{{ $securejs.Permalink }}" integrity="{{ $securejs.Data.Integrity }}" defer></script>    
 
 
@@ -21,6 +21,7 @@
     {{ $aos := resources.Get "css/aos.css"  }}
     
     {{ $aos = $aos | resources.PostCSS }}
+    {{ $aos = $aos | minify | fingerprint }}
     {{ $styles = $styles | resources.PostCSS }}
     {{ if  hugo.IsProduction  }}
       {{ $styles = $styles | minify | fingerprint }}
@@ -39,7 +40,9 @@
     {{- partial "footer" . }}
     
     {{- partial "script" . }}
-
+    <script>
+      AOS.init({ disable: "mobile" });
+    </script>
     <!-- {{- partial "gtm-body" . }} -->
     </body>
 </html>
