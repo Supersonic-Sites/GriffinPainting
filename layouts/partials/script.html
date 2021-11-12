@@ -4,3 +4,11 @@
 {{ $script := resources.Get "js/video.js" | minify}}
 <script src="{{ $script.Permalink }}" defer></script>
 {{ end }}
+<script>
+    AOS.init({
+    disable: function() {
+      var maxWidth = 800;
+      return window.innerWidth < maxWidth;
+    }
+  });
+</script>
