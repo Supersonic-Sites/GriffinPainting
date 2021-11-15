@@ -1,7 +1,5 @@
 ---
 title: Contact Us
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at
-  aliquam nibh, quis tincidunt ante. Vivamus sit amet diam et velit aliquam
-  aliquam at ut neque.
+description: The Top Vancouver Island Painting & Pressure Washing Services. Book online or call today to get a free quote.
 layout: contact
 ---

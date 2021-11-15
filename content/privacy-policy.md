@@ -1,8 +1,6 @@
 ---
 title: Privacy Policy
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at
-  aliquam nibh, quis tincidunt ante. Vivamus sit amet diam et velit aliquam
-  aliquam at ut neque.
+description: We care about your privacy. Contact us if you have any questions about how we do.
 companyname: Griffin Painting
 companyemail: allan@griffinpainting.ca
 layout: privacy_policy

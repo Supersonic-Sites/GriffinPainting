@@ -1,8 +1,6 @@
 ---
 title: Gallery Page
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at
-  aliquam nibh, quis tincidunt ante. Vivamus sit amet diam et velit aliquam
-  aliquam at ut neque.
+description: Curious to see before and after pictures of our residential and commercial past clients? Browse our gallery and contact us for a quote or with your questions.
 slug: gallery
 components:
   - type: header_sub

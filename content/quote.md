@@ -1,7 +1,5 @@
 ---
 title: Get A Quote
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at
-  aliquam nibh, quis tincidunt ante. Vivamus sit amet diam et velit aliquam
-  aliquam at ut neque.
+description: Get a free no contact paiting estimate for your home or commerce. Book online or call today!
 layout: quote
 ---
