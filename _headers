@@ -1,9 +1,0 @@
-https://www.griffinpainting.ca/*
-  Access-Control-Allow-Origin: *
-  X-Robots-Tag: nosnippet
-  X-Frame-Options: DENY
-  X-Content-Type-Options: nosniff
-  Referrer-Policy: no-referrer
-
-https://griffinpainting.pages.dev/*
-  X-Robots-Tag: noindex
