@@ -3,6 +3,7 @@ title: Welcome to Griffin Painting
 description: The Top Vancouver Island Painting & Pressure Washing Services. Get
   a free no contact estimate. Book online or call today! Our professional
   painters are ready to transform your home or business.
+
 components:
   - cta2: Contact Us
     img: https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/1a751f10-cc0e-448b-314a-a47a3a7c5800/public

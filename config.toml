@@ -70,8 +70,9 @@ source = "./node_modules/aos/dist/aos.js"
 target = "assets/js/aos.js"
 
 [sitemap]
-changefreq = "monthly"
-filename = "sitemap.xml"
+  changefreq = 'monthly'
+  filename = 'sitemap.xml'
+  priority = 0.5
 
 [build]
 writeStats = true
