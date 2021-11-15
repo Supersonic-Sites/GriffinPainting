@@ -199,18 +199,20 @@ components:
           has a passion for painting houses, especially heritage homes like
           ours. I couldn’t more highly recommend Griffin Painting.
         image_toggle: true
-      - name: D Appleton
-        img: https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/e6cd6c92-8524-426e-0cb6-216c65c84700/TestimonialBubble
-        img_alt: D APPLETON
+      - name: Sandra Hinders
+        img: https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/127d274c-15ee-4836-09c4-47a6559b0600/TestimonialBubble
+        img_alt: Sandra Hinders
         position: Happy Customers
         desc: >+
-          Griffin Painting recently completed a full exterior paint on my 100
-          year old house in Fairfield. Their crew arrived early each day, were
-          clean, respectful and worked diligently to get the job done on time
-          and on budget. The results were fantastic and I continue to have
-          neighbours stop by and comment how great the place looks! Phil and
-          Kyle were a pleasure to deal with. They take pride in their work and
-          I’m happy to say my century old home actually looks like new.
+          “We have had many painters over the decades and none have been as
+          wonderful, professional and friendly as Kyle and team at Griffin. They
+          did two of our entire homes (inside and outside), they also did a
+          neighbours large oceanfront home, and a friends large commercial
+          vacation business. They do top quality work, show up on time, very
+          thoughtful and have always worked around our schedule. The product
+          knowledge on paint, and applications to ensure the best performance on
+          the West Coast was unparalleled. Highly recommend them! Worth the
+          investment. Five star service.”
 
         image_toggle: true
       - name: Maddy Speck
