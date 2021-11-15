@@ -115,7 +115,7 @@ components:
     type: img_third_right
   - type: divider_half
     bg_color: white
-  - img: https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/9a6ccf94-ff9f-4fdd-edf3-03e3c0c27500/SquareDesktop
+  - img: https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/08aaf653-093c-4cfc-e529-01b8d6117800/cardsHalfImg
     aos: fade-up
     cta_link: contact/
     bg_color: white
@@ -132,7 +132,7 @@ components:
     type: img_third_right
   - type: divider_half
     bg_color: white
-  - img: https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/08aaf653-093c-4cfc-e529-01b8d6117800/cardsHalfImg
+  - img: https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/9a6ccf94-ff9f-4fdd-edf3-03e3c0c27500/SquareDesktop
     aos: fade-up
     cta_link: contact/
     bg_color: white
