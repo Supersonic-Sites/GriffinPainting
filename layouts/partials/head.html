@@ -36,17 +36,21 @@
 <meta name="twitter:image:src" content="{{ .Site.Params.schema.ogimage | absURL }}" />
 
 <link rel="canonical" href="{{ .Site.BaseURL | absURL }}{{ .Permalink | absURL }}" />
-<meta name="robots" content="index, follow" />
+
+{{ if .Params.noindex }}
+<meta name="robots" content="noindex, nofollow" /> 
+<meta name="googlebot" content="noindex, nofollow" />
+{{ else }}
+<meta name="robots" content="index, follow">
 <meta name="googlebot" content="index, follow" />
+
+{{ end }}
 
 <!-- Manifest File -->
 <link rel="manifest" href="{{ .Site.BaseURL }}site.webmanifest" />
 
 <meta property="og:locale" content="{{ .Language.Lang }}" />
 <meta name="language" content="{{ .Language.LanguageName }}" />
-{{ range .AllTranslations }}
-<link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}" title="{{ .Language.LanguageName }}" />
-{{ end }}
 
 <script type="application/ld+json">
     {
