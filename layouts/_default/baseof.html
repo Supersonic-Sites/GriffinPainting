@@ -20,7 +20,7 @@
     {{ $styles := resources.Get "css/main.css"  }}
     {{ $aos := resources.Get "css/aos.css"  }}
     
-    {{ $aos = $aos | resources.PostCSS }}
+    {{ $aos = $aos }}
     {{ $aos = $aos | minify | fingerprint }}
     {{ $styles = $styles | resources.PostCSS }}
     {{ if  hugo.IsProduction  }}
