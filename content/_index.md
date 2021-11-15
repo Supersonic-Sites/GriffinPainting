@@ -1,5 +1,5 @@
 ---
-title: Welcome to Griffin Painting
+title: Van Isle Residential & Commercial Painters
 description: The Top Vancouver Island Painting & Pressure Washing Services. Get
   a free no contact estimate. Book online or call today! Our professional
   painters are ready to transform your home or business.
