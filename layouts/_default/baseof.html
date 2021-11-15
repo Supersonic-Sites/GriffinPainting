@@ -20,7 +20,7 @@
     {{ $styles := resources.Get "css/main.css"  }}
     {{ $aos := resources.Get "css/aos.css"  }}
     
-    {{ $aos = $aos }}
+    {{ $aos = $aos | resources.PostCSS }}
     {{ $aos = $aos | minify | fingerprint }}
     {{ $styles = $styles | resources.PostCSS }}
     {{ if  hugo.IsProduction  }}
@@ -41,7 +41,7 @@
     
     {{- partial "script" . }}
     <script>
-      AOS.init();
+      AOS.init({ disable: "mobile" });
     </script>
     <!-- {{- partial "gtm-body" . }} -->
     </body>
