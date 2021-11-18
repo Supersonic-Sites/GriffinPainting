@@ -13,7 +13,7 @@ components:
     desc: Interior, exterior, residential & commercial painting company with more
       than 15 years of experience. We  are ready to transform your home or
       business. We serve Victoria, Ucluelet, Tofino, Nanaimo, the Comox Valley,
-      and all Vancouver Island..
+      and all Vancouver Island.
     cta2_link: contact/
     title1: Vancouver Island's Top <span class="text-primary">Professional </span>
     cta2_select: true
@@ -29,13 +29,13 @@ components:
     title_size: medium
     desc_select: true
     desc: With over 20 years of experience, Griffin Painting is your Go-to Vancouver
-      Island Painting Company.  At Griffin Painting, we pride ourselves in
+      Island painting company. As painting contractors, we pride ourselves in
       exceeding our clients expectations and providing quality painting services
       from preparation all the way through to the finishing touches. We
       specialize in finding the least impactful way to complete difficult
       projects such as an occupied resort or strata vacation rental where a soft
       touch is needed to keep the business operating while still completing the
-      work.  From interior to exterior, residential to commercial, we would be
+      work. From interior to exterior, residential to commercial, we would be
       happy to help you with whatever painting services you need.
   - type: divider_half
     bg_color: white
