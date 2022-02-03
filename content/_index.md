@@ -232,7 +232,7 @@ components:
         image_toggle: true
   - address4: Canada
     bg_color: white
-    phone: +1-778-585-8740
+    phone: +1-250-661-4535
     cta: Send
     desc: Nullam risus blandit ac aliquam justo ipsum. Quam mauris volutpat massa
       dictumst amet. Sapien tortor lacus arcu.
