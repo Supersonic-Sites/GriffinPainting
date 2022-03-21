@@ -133,25 +133,6 @@ components:
     type: img_third_right
   - type: divider_half
     bg_color: white
-  - img: https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/9a6ccf94-ff9f-4fdd-edf3-03e3c0c27500/SquareDesktop
-    aos: fade-up
-    cta_link: contact/
-    bg_color: white
-    img_alt: Picture of the founder Allan Koch and his family
-    cta: Call To Action
-    desc: Born and raised in the Comox Valley, Allan started his career as a red
-      seal electrician, but took time away from the electrical world in the
-      summers to paint with Kyle in the early days. Electrical work took him to
-      multiple provinces in Canada, and provided opportunities to work with
-      national institutions such as Via Rail as an Operations Manager for
-      equipment maintenance and municipalities like the Town of Qualicum Beach
-      as a Parks Superintendent, but his heart was in the Comox Valley. As a new
-      father of twin boys and husband to his amazing wife, Allan's roots pulled
-      his family back to his home turf to pursue an opportunity to work with his
-      life long friend Kyle to help manage the growing business.<br><br>
-    aos_select: true
-    title: <h3 class="font-bold text-3xl  text-primary">Allan Koch</h3><br>
-    type: img_third_right
   - type: divider
     bg_color: white
   - type: heading_full
@@ -223,7 +204,7 @@ components:
         desc: >
           From the very beginning Griffin Painting was a pleasure to deal with.
           We got our Quote very quickly and it was clearly outlined what the job
-          would entail. We had great communication with Kyle and Allan; they
+          would entail. We had great communication with Kyle; they
           were always very professional. When it came time to do the job they
           were very efficient, and they got the job done very quickly without
           cutting any corners. We also appreciate the last minute suggestions
@@ -239,7 +220,7 @@ components:
     usebasin: https://usebasin.com/f/5b971a10c9a5
     title: Get In Touch
     type: contact
-    email: allan@griffinpainting.ca
+    email: kyle@griffinpainting.ca
     address1: 2 - 2130 Marine Drive,
     address2: West Vancouver, BC
     address_toggle: false

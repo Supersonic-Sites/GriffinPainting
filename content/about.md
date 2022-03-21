@@ -83,28 +83,6 @@ components:
     aos_select: true
     title: <h3 class="font-bold text-3xl  text-primary">Phil Cheevers</h3><br>
     type: img_third_right
-  - type: divider_half
-    bg_color: white
-  - img: https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/9a6ccf94-ff9f-4fdd-edf3-03e3c0c27500/SquareDesktop
-    aos: fade-up
-    cta_link: contact/
-    bg_color: white
-    cta_select: false
-    img_alt: Please type in a description of the image
-    cta: Call To Action
-    desc: Born and raised in the Comox Valley, Allan started his career as a red
-      seal electrician, but took time away from the electrical world in the
-      summers to paint with Kyle in the early days. Electrical work took him to
-      multiple provinces in Canada, and provided opportunities to work with
-      national institutions such as Via Rail as an Operations Manager for
-      equipment maintenance and municipalities like the Town of Qualicum Beach
-      as a Parks Superintendent, but his heart was in the Comox Valley. As a new
-      father of twin boys and husband to his amazing wife, Allan's roots pulled
-      his family back to his home turf to pursue an opportunity to work with his
-      life long friend Kyle to help manage the growing business.<br><br>
-    aos_select: true
-    title: <h3 class="font-bold text-3xl  text-primary">Allan Koch</h3><br>
-    type: img_third_right
   - type: divider
     bg_color: white
   - type: cards_third_text
