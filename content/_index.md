@@ -12,7 +12,7 @@ components:
     cta: Get A Quote
     desc: Interior, exterior, residential & commercial painting company with more
       than 15 years of experience. We  are ready to transform your home or
-      business. We serve Victoria, Ucluelet, Tofino, Nanaimo, the Comox Valley,
+      business. We serve the Comox Valley, the West Coast, Port Alberni, Nanaimo,
       and all Vancouver Island.
     cta2_link: contact/
     title1: Vancouver Island's Top <span class="text-primary">Professional </span>

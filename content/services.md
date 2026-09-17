@@ -12,8 +12,8 @@ components:
     id: none
     bg_color: white
     align: left
-    title: We serve Victoria, Ucluelet, Tofino, Nanaimo, the Comox Valley, and all
-      Vancouver Island.
+    title: We serve the Comox Valley, the West Coast, Port Alberni, Nanaimo, and
+      all Vancouver Island.
     title_size: small
     desc_select: true
     desc: With over 15 years of experience, Griffin Painting is your go-to Vancouver
